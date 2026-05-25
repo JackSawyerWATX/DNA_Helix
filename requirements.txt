@@ -1,0 +1,4 @@
+numpy>=2.0.0
+vedo>=2026.0.0
+vtk>=9.0.0
+matplotlib>=3.0.0
